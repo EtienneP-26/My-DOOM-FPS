@@ -1,0 +1,17 @@
+USAGE
+    - ./My-DOOM for playing the game
+    - ./My-DOOM -h for help
+DESCRIPTION
+    - My-DOOM is a fake 3D game where you search the exit but there are enemies along the way that will try killing you
+CONTROLS
+    - press 'Z' to move forward
+    - press 'S' to move backward
+    - press 'Q' to move to the left
+    - press 'D' to move to the right
+    - press 'F' to toggle flashlight
+    - press 'LEFT_CLICK' to shoot
+    - press 'L_SHIFT' to run
+    - press 'ESC' to quit the game
+    - press 'F5' to quick save
+    - press 'F9' to quick load
+    - Or you can change the controls in settings (Volume, sensitivity, window size and the mouvement keys)

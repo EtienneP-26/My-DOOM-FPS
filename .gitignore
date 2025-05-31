@@ -1,0 +1,6 @@
+*.tldr
+*.o
+.vscode
+obj
+My-DOOM
+.vscode
